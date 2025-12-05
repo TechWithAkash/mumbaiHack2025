@@ -1,4 +1,4 @@
-# 📋 WealthWise - Complete Project Context & Documentation
+# 💰 WealthWise - AI-Powered Financial Intelligence Platform
 
 > **Document Version:** 1.0  
 > **Last Updated:** December 5, 2025  
